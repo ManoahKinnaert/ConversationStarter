@@ -1,0 +1,5 @@
+ollama
+kokoro
+scipy
+sounddevice
+git+https://github.com/openai/whisper.git 
